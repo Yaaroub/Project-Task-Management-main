@@ -1,0 +1,8 @@
+node_modules
+.next
+.next-dev
+.next-test
+.next-uitest
+data/backups
+data/*.sqlite*
+.env*.local
